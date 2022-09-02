@@ -7,5 +7,11 @@
 
 |Nome                                     | O que faz?                                                           |
 |:---------------------------------------:|:---------------------------------------------------------------------|
+.\env\Scripts\activate | Ativa o ambiente virtual do django (ative no cmd)
+python manage.py runserver | Ativa o servidor 
+
+
+
+
 
 
