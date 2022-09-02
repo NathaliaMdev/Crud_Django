@@ -9,7 +9,8 @@
 |:---------------------------------------:|:---------------------------------------------------------------------|
 .\env\Scripts\activate | Ativa o ambiente virtual do django (ative no cmd)
 python manage.py runserver | Ativa o servidor 
-
+python manage.py makemigrations | Caso haja alguma alteração no banco sql ou no próprio arquivo de parâmetros utilizar este comando
+python manage.py migrate | Atualiza as migrações
 
 
 
